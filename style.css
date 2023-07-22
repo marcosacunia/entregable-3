@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;1,700&display=swap');
+
+header{
+    background-color: #ececdd;
+background-image: url(img/banner.jpg);
+background-position: center;
+background-size: cover;
+background-attachment: fixed
+
+}
+/*Estilos header */
+header img{
+    width: 200px; height: 200px;
+
+}
+
+li{color: #000000;}
+article{
+    color: #121210;
+}
+p{
+    color: rgb(0, 0, 0);
+}
+p.snacks {
+    background-color: rgb(255, 255, 255);
+    background-position: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p.historia {
+    font-family: inherit;
+    color: #121210;
+
+}
+body{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    background-position: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+p.navbar{
+    background-color: #ececdd;
+    background-position: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p.logo {
+    background-color: #ececdd;
+background-position: left;
+background-size: cover;
+background-attachment: fixed
+}
